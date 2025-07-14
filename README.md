@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monim2022&label=Profile%20views&color=0e75b6&style=flat" alt="monim2022" /> </p>
 
-- 📝 I regularly write articles on [https://learnforother24.blogspot.com/](https://learnforother24.blogspot.com/)
+- 📝 I regularly write articles on [https://bugscoderit.blogspot.com/](https://bugscoderit.blogspot.com/)
 
 - ⚡ Fun fact **I am funny and co-operative**
 
